@@ -1,0 +1,36 @@
+D:/Computer_Organization/MoPhong/SPSR_Regsister.v {1 {vlog -work work -stats=none D:/Computer_Organization/MoPhong/SPSR_Regsister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SPSR_Regsister
+
+Top level modules:
+	SPSR_Regsister
+
+} {} {}} D:/Computer_Organization/MoPhong/CPSR_Regsister.v {1 {vlog -work work -stats=none D:/Computer_Organization/MoPhong/CPSR_Regsister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CPSR_Regsister
+
+Top level modules:
+	CPSR_Regsister
+
+} {} {}} D:/Computer_Organization/MoPhong/Top_ALU_CPSR.v {1 {vlog -work work -stats=none D:/Computer_Organization/MoPhong/Top_ALU_CPSR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Top_ALU_CPSR
+
+Top level modules:
+	Top_ALU_CPSR
+
+} {} {}} D:/Computer_Organization/MoPhong/Testbench.v {1 {vlog -work work -stats=none D:/Computer_Organization/MoPhong/Testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} D:/Computer_Organization/MoPhong/ALU_ARM.v {1 {vlog -work work -stats=none D:/Computer_Organization/MoPhong/ALU_ARM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
