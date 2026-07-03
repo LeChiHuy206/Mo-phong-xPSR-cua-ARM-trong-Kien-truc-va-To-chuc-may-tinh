@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VSLI/TT_TKHTVMS/ThiCuoiKi
+vALU
+Z0 !s110 1783068525
+!i10b 1
+!s100 ^TXcWZZ^@o8DDIb:39H:=3
+IGSC7XLGHW?fPSe__dP@Xh2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Computer_Organization/MoPhong/xPSR_ARM
+w1779443634
+8D:/Computer_Organization/MoPhong/ALU_ARM.v
+FD:/Computer_Organization/MoPhong/ALU_ARM.v
+L0 27
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1783068525.000000
+!s107 D:/Computer_Organization/MoPhong/ALU_ARM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Computer_Organization/MoPhong/ALU_ARM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vCPSR_Regsister
+R0
+!i10b 1
+!s100 >B`jFUA`D>?2]X6A`0EVL3
+IGNghgRIC4MkGEN:g7Z9di0
+R1
+R2
+w1779441733
+8D:/Computer_Organization/MoPhong/CPSR_Regsister.v
+FD:/Computer_Organization/MoPhong/CPSR_Regsister.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Computer_Organization/MoPhong/CPSR_Regsister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Computer_Organization/MoPhong/CPSR_Regsister.v|
+!i113 1
+R5
+R6
+n@c@p@s@r_@regsister
+vSPSR_Regsister
+R0
+!i10b 1
+!s100 OUfGG@25JoiQDV?YJPO[J0
+IGa2CiHb8bBYamTV3`^lNO0
+R1
+R2
+w1781472218
+8D:/Computer_Organization/MoPhong/SPSR_Regsister.v
+FD:/Computer_Organization/MoPhong/SPSR_Regsister.v
+L0 17
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Computer_Organization/MoPhong/SPSR_Regsister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Computer_Organization/MoPhong/SPSR_Regsister.v|
+!i113 1
+R5
+R6
+n@s@p@s@r_@regsister
+vTestbench
+R0
+!i10b 1
+!s100 G4BKDS0U[B1L6MizQP7a<0
+IzN17AT0TBB]c8jCLD[fUf2
+R1
+R2
+w1781473211
+8D:/Computer_Organization/MoPhong/Testbench.v
+FD:/Computer_Organization/MoPhong/Testbench.v
+L0 25
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Computer_Organization/MoPhong/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Computer_Organization/MoPhong/Testbench.v|
+!i113 1
+R5
+R6
+n@testbench
+vTop_ALU_CPSR
+R0
+!i10b 1
+!s100 7=86Wffgz2oV58ZVJg2_R3
+IKM<_5:`ha@5J]Bg;Fl9Nh0
+R1
+R2
+w1781472169
+8D:/Computer_Organization/MoPhong/Top_ALU_CPSR.v
+FD:/Computer_Organization/MoPhong/Top_ALU_CPSR.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Computer_Organization/MoPhong/Top_ALU_CPSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Computer_Organization/MoPhong/Top_ALU_CPSR.v|
+!i113 1
+R5
+R6
+n@top_@a@l@u_@c@p@s@r
